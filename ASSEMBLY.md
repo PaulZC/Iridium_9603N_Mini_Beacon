@@ -120,10 +120,10 @@ Take appropriate ESD precautions throughout and especially when handling the 960
 Connect the 9603N to the beacon PCB using a HIROSE (HRS) u.FL-u.FL cable or similar. The cable needs to be 50 Ohm and approximately 25mm long.
 
 Carefully fold the 9603N module over onto the PCB, insert the 20-way connector into the Samtec socket, then secure the module using:
-- two 4.5mm OD x 6mm spacers (McMaster 94669A100)
-- two 2-56 x 7/16" screws (McMaster 92185A081)
+- two 1/8" OD x 3/16" spacers (McMaster 92511A127)
+- two 2-56 x 3/8" screws (McMaster 92185A079)
 
-Screw the antenna onto the SMA connector
+Screw the antenna onto the SMA connector.
 
 ![Mini_Beacon](https://github.com/PaulZC/Iridium_9603N_Mini_Beacon/blob/master/img/Mini_Beacon.JPG)
 
