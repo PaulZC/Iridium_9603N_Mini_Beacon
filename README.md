@@ -30,6 +30,8 @@ The Eagle files are available in the [Eagle folder](https://github.com/PaulZC/Ir
 
 The schematic, dimensions and BOM are available [here](https://github.com/PaulZC/Iridium_9603N_Mini_Beacon/blob/master/Iridium_9603N_Mini_Beacon.pdf).
 
+The [OpenSCAD folder](https://github.com/PaulZC/Iridium_9603N_Mini_Beacon/tree/master/OpenSCAD) contains .scad and .stl files for the 3D-printed cover.
+
 ## Licence
 
 This project is distributed under a Creative Commons Attribution + Share-alike (BY-SA) licence.
