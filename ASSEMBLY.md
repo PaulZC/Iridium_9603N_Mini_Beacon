@@ -146,6 +146,8 @@ Keep the top of the MAX-M8Q clear of lacquer too as its package is only just thi
 
 Once the lacquer is dry, re-attach the 9603N and your board is ready for use.
 
+![Assembly_12](https://github.com/PaulZC/Iridium_9603N_Mini_Beacon/blob/master/img/Assembly_12.JPG)
+
 ### The Small Print
 
 This project is distributed under a Creative Commons Attribution + Share-alike (BY-SA) licence.
