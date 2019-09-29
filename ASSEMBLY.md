@@ -129,7 +129,7 @@ Screw the antenna onto the SMA connector.
 
 ### Test the PCB
 
-Test the completed PCB using the [Arduino test code](https://github.com/PaulZC/Iridium_9603N_Mini_Beacon/tree/master/Arduino).
+Test the completed PCB using the [Arduino code](https://github.com/PaulZC/Iridium_9603N_Mini_Beacon/tree/master/Arduino).
 
 ### Secure J1 with Epoxy
 
